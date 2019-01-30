@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	height: 100%
+	width: 100%;
+}
+
+#banner {
+	background-image: url("https://www.bbrsd.org/cms/lib/MA01907488/Centricity/Domain/320/STEM-LOGO-FINAL.png");
+	background-size: cover;
+	background-position: center; 
+	height: 100vh;
+	width: 100vw;
+}
